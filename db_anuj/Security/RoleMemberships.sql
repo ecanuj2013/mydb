@@ -1,0 +1,50 @@
+﻿ALTER SERVER ROLE [sysadmin] ADD MEMBER [LAPTOP-VCRC8K27\anujk];
+
+
+GO
+ALTER SERVER ROLE [sysadmin] ADD MEMBER [NT SERVICE\SQLWriter];
+
+
+GO
+ALTER SERVER ROLE [sysadmin] ADD MEMBER [NT SERVICE\Winmgmt];
+
+
+GO
+ALTER SERVER ROLE [sysadmin] ADD MEMBER [NT Service\MSSQLSERVER];
+
+
+GO
+ALTER SERVER ROLE [sysadmin] ADD MEMBER [NT SERVICE\SQLSERVERAGENT];
+
+
+GO
+ALTER SERVER ROLE [sysadmin] ADD MEMBER [load];
+
+
+GO
+ALTER SERVER ROLE [securityadmin] ADD MEMBER [load];
+
+
+GO
+ALTER SERVER ROLE [serveradmin] ADD MEMBER [load];
+
+
+GO
+ALTER SERVER ROLE [setupadmin] ADD MEMBER [load];
+
+
+GO
+ALTER SERVER ROLE [processadmin] ADD MEMBER [load];
+
+
+GO
+ALTER SERVER ROLE [diskadmin] ADD MEMBER [load];
+
+
+GO
+ALTER SERVER ROLE [dbcreator] ADD MEMBER [load];
+
+
+GO
+ALTER SERVER ROLE [bulkadmin] ADD MEMBER [load];
+

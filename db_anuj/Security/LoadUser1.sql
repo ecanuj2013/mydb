@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [LoadUser1]
+    WITH PASSWORD = N'madspthzE|kKqo9n3gaL|cxjmsFT7_&#$!~<H{nVglPzneeb', SID = 0x9D232AD097DA304EA35AB84D8E5CC50D, DEFAULT_LANGUAGE = [us_english];
+

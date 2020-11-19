@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "db_anuj", "db_anuj\db_anuj.sqlproj", "{98D72705-FEE8-46A6-96DC-3DD261508F78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98D72705-FEE8-46A6-96DC-3DD261508F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98D72705-FEE8-46A6-96DC-3DD261508F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98D72705-FEE8-46A6-96DC-3DD261508F78}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{98D72705-FEE8-46A6-96DC-3DD261508F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98D72705-FEE8-46A6-96DC-3DD261508F78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98D72705-FEE8-46A6-96DC-3DD261508F78}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E979627F-511F-479B-9EA4-9C259804B630}
+	EndGlobalSection
+EndGlobal
